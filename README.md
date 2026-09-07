@@ -5,3 +5,4 @@ Sua duoi Local
 Sua truc tiep tren GitHub
 Facebook: https://fb.com/myprofile
 Code loi tinh nang A
+Code loi tinh nang B
